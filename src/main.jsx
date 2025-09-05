@@ -17,7 +17,7 @@ createRoot(document.getElementById('root')).render(
 
   <StrictMode>
   <DataState>
-      <BrowserRouter>
+      <BrowserRouter basename='REACT_E-COMMERCE'>
       <App />
     </BrowserRouter>
   </DataState>
